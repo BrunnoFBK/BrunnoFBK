@@ -6,6 +6,15 @@
 - 📫 Meu email de contato: keskoski.brunno@escola.pr.gov.br
 
 ## Estou aprendendo
+Programação em Javascript, Scratch e HTML
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white) 
+
+
+
+
+
 
 
 <!---
